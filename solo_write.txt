@@ -1,5 +1,5 @@
-[0]input("enter a string: 
-[1]input("enter a string: 
-[2]input("enter a string: 
-[3]input("enter a string: 
-[4]input("enter a string: 
+0input(enter a string:
+1input(enter a string:
+2input(enter a string:
+3input(enter a string:
+4input(enter a string:
